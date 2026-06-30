@@ -1,5 +1,7 @@
 # Sunshine Steam App Manager
 
+Based on https://github.com/CommonMugger/Sunshine-App-Automation
+
 Sunshine Steam App Manager is a Windows app for adding installed Steam games to Sunshine by updating Sunshine's `apps.json` app list.
 
 The app scans Steam library manifests, reads Steam AppIDs and game names, optionally downloads cover art from SteamGridDB, and writes clean Sunshine application entries that launch games with `steam://rungameid/APPID`.
