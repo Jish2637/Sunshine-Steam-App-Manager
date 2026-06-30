@@ -6,6 +6,8 @@ Sunshine Steam App Manager is a Windows app for adding installed Steam games to 
 
 The app scans Steam library manifests, reads Steam AppIDs and game names, optionally downloads cover art from SteamGridDB, and writes clean Sunshine application entries that launch games with `steam://rungameid/APPID`.
 
+It is recommended to run as admin if you are using default steam/sunshine installation folders otherwise the app will not be able to edit required files.
+
 ## What It Does
 
 - Detects installed Steam games from `libraryfolders.vdf` and `appmanifest_*.acf` files.
