@@ -129,25 +129,4 @@ Generated Steam apps use the Steam URI as the main Sunshine command:
 }
 ```
 
-Steam games are placed in Command, not Detached Commands, because Sunshine should launch the Steam URI as the application command. Empty `detached`, empty `prep-cmd`, and unused `working-dir` fields are not generated.
 
-## Manual Test Checklist
-
-1. App opens to Home tab.
-2. Steam auto-detect works.
-3. Steam scan finds installed appmanifest files.
-4. Broken manifests are logged but do not crash the app.
-5. Existing Sunshine apps load from `apps.json` in Advanced Mode.
-6. Preview shows changes before writing.
-7. Applying changes creates a timestamped `apps.json` backup.
-8. Generated Steam app has `cmd = steam://rungameid/APPID`.
-9. Generated Steam app does not include `detached` when unused.
-10. Generated Steam app does not include `prep-cmd` when unused.
-11. `auto-detach` is `true`.
-12. `wait-all` is `true`.
-13. `exit-timeout` is number `5`, not string `"5"`.
-14. `image-path` points to a local PNG when available.
-15. Existing Steam apps are not duplicated.
-16. Old detached Steam URI entries can be repaired.
-17. User-created non-Steam apps are preserved.
-18. `sunshine.conf` is not modified.
