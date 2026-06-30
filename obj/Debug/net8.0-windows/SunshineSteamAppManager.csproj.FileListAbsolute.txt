@@ -1,0 +1,14 @@
+G:\CodexCustom\SunshineApp\bin\Debug\net8.0-windows\Sunshine Steam App Manager.exe
+G:\CodexCustom\SunshineApp\bin\Debug\net8.0-windows\Sunshine Steam App Manager.deps.json
+G:\CodexCustom\SunshineApp\bin\Debug\net8.0-windows\Sunshine Steam App Manager.runtimeconfig.json
+G:\CodexCustom\SunshineApp\bin\Debug\net8.0-windows\Sunshine Steam App Manager.dll
+G:\CodexCustom\SunshineApp\bin\Debug\net8.0-windows\Sunshine Steam App Manager.pdb
+G:\CodexCustom\SunshineApp\obj\Debug\net8.0-windows\SunshineSteamAppManager.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodexCustom\SunshineApp\obj\Debug\net8.0-windows\SunshineSteamAppManager.AssemblyInfoInputs.cache
+G:\CodexCustom\SunshineApp\obj\Debug\net8.0-windows\SunshineSteamAppManager.AssemblyInfo.cs
+G:\CodexCustom\SunshineApp\obj\Debug\net8.0-windows\SunshineSteamAppManager.csproj.CoreCompileInputs.cache
+G:\CodexCustom\SunshineApp\obj\Debug\net8.0-windows\Sunshine Steam App Manager.dll
+G:\CodexCustom\SunshineApp\obj\Debug\net8.0-windows\refint\Sunshine Steam App Manager.dll
+G:\CodexCustom\SunshineApp\obj\Debug\net8.0-windows\Sunshine Steam App Manager.pdb
+G:\CodexCustom\SunshineApp\obj\Debug\net8.0-windows\SunshineSteamAppManager.genruntimeconfig.cache
+G:\CodexCustom\SunshineApp\obj\Debug\net8.0-windows\ref\Sunshine Steam App Manager.dll
