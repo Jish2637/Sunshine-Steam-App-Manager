@@ -8,6 +8,8 @@ The app scans Steam library manifests, reads Steam AppIDs and game names, option
 
 It is recommended to run as admin if you are using default steam/sunshine installation folders otherwise the app will not be able to edit required files.
 
+<img width="1235" height="1107" alt="image" src="https://github.com/user-attachments/assets/d5d2adda-0177-416c-8e25-a8f9ab66ab71" />
+
 ## What It Does
 
 - Detects installed Steam games from `libraryfolders.vdf` and `appmanifest_*.acf` files.
@@ -128,5 +130,10 @@ Generated Steam apps use the Steam URI as the main Sunshine command:
   "wait-all": true
 }
 ```
+## Advanced Mode Screens
+<img width="1233" height="1112" alt="image" src="https://github.com/user-attachments/assets/e76b9dde-9cf4-4c8d-9ab4-2036dab6a8b9" />
+
+<img width="1234" height="1110" alt="image" src="https://github.com/user-attachments/assets/d8f5a2ff-8b01-43a6-88f0-53e1fb6acc97" />
+
 
 
